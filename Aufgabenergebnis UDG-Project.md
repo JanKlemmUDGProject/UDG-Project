@@ -34,6 +34,7 @@ $ git clone <linktorepository> UDG-Project
 $ cd UDG-Project
 $ MAC python -m venv venv WINDOWS py -3 -m venv venv
 $ . venv/bin/activate
+$ export FLASK_APP=run.py
 $ flask run
 ```
 ---
